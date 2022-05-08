@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "504356712042",
+    "project_id": "intro-mob-group-15",
+    "storage_bucket": "intro-mob-group-15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504356712042:android:44d53c01c6ccf50b94e413",
+        "android_client_info": {
+          "package_name": "com.example.examenafname"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504356712042-nb2ekd1foqt5floo2mj15vg85i6lqprb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdTDUda-Yr2E8UaL3TOpV9pg0_5Dpi1g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504356712042-nb2ekd1foqt5floo2mj15vg85i6lqprb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504356712042-oak3lferp45unj1o0epd19bmdo8oq8n3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.examenafname"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
